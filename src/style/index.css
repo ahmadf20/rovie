@@ -28,7 +28,7 @@ p {
 
 .container{
   margin: 0 auto;
-  max-width: 1500px;
+  max-width: 1500px; 
   padding: 40px;
 }
 
@@ -40,6 +40,9 @@ p {
 
 .subtitle {
   text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  margin-block-start: 0;
+  margin-block-end: 0;
 }
 
 .description{
